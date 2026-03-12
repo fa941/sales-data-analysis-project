@@ -5,8 +5,7 @@
 
 See the PPT for the project's process, summary, and recommendations.
 
-[Here] ([Uploading PPT(Sales_Project).pptx…]()
-)
+
 
 --- 
 
