@@ -2,8 +2,35 @@
 **Tools:** Power Query, SQL, Power BI  
 
 ## 📌 Project Analysis & Insights
+  ### Exploratory Data Analysis (EDA)
+  1-Dataset Structure
 
-See the PPT for the project's process, summary, and recommendations.
+-The dataset consists of one fact table and four dimension tables:
+
+-Fact_Sales: 17,320 records containing transaction details.
+
+-Dim_City: 13,028 records representing city information.
+
+-Dim_Date: 1,460 records containing date attributes.
+
+-Dim_Customer: 401 records with customer details.
+
+-Dim_Employee: 211 records containing employee information.
+
+   2- Sales Overview
+
+-The total number of transactions in the dataset is approximately 17,000 transactions.
+
+-The total sales amount including tax is 15.07 million.
+
+   3-Sales Trend Analysis
+   
+-Sales showed a steady increase from 2013 to 2015.
+
+-However, there was a significant decline in sales during 2016.
+
+
+-See the PPT for the project's process, summary, and recommendations.
 
 
 
