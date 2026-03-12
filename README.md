@@ -13,4 +13,4 @@ power query , SQL, Power BI
 - ![Sales performance overview]()  
 - ![Geographic performance overview]()  
 - ![Customer performance overview]()
--![Year over year overview]()
+- ![Year over year overview]()
