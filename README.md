@@ -28,10 +28,10 @@
 -Sales showed a steady increase from 2013 to 2015.
 
 -However, there was a significant decline in sales during 2016.
+  
+---
 
-
--See the PPT for the project's process, summary, and recommendations.
-
+## For more details about the project process, summary, and recommendations, please see the PPT presentation.
 
 
 --- 
