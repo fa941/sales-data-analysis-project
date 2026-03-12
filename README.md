@@ -1,10 +1,12 @@
-# End to End sales-analysis-project using
-power query , SQL, Power BI 
+# End-to-End Sales Analysis Project  
+**Tools:** Power Query, SQL, Power BI  
+
 ## 📌 Project Analysis & Insights
 
+See the PPT for the project's process, summary, and recommendations.
 
-
-
+[Here] ([Uploading PPT(Sales_Project).pptx…]()
+)
 
 --- 
 
